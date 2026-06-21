@@ -1,7 +1,5 @@
 # Hotel-Bookings-Data-Analysis
 
-# Project Summary
-
 This project analyzes hotel booking data to uncover patterns in customer behavior, booking trends, cancellations, revenue generation, and seasonal demand. The analysis follows a complete data analytics workflow, including data cleaning, preprocessing, exploratory data analysis (EDA), visualization, and business insight generation.
 
 ### Objectives
